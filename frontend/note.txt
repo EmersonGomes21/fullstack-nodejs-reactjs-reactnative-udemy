@@ -1,0 +1,22 @@
+npm install "instala as dependencias"
+--------------
+npx create-react-app web "criar um projeto react com o nome web"
+------------------
+useState "É um recurso do react capaz de armazenar estados de variaveis, o estado nofitica todos os elementos de uma pagina para todos os outros também mudem de acordo com os parametros"
+ const [nome do parametro, função que atuasliza o estado] = useState();
+---------------------
+CSS MATIC BOX SHADOW
+https://www.cssmatic.com/box-shadow
+-----------------
+npm install axios "para integrar as rotas do back ao front"
+-----------------
+useEffect " função que é disparada toda vez que a tela é carregada"
+_____________________
+
+npm install cors "biblioteca que permite o backend se conectar ao frontend"
+__________________
+useMemo "Uso parecido com o do useState, porém, é mais perfomatico para o uso com datas, separar dia e hora"
+_________________________________
+npm install date-fns "biblioteca para manipular datas"
+________________________________
+npm install react-router-dom
